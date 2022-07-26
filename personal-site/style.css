@@ -1,0 +1,21 @@
+body {
+  background-color: #E4DCCF;
+}
+img {
+    display: flex;
+    border-radius: 18%;
+    height: 385px;
+    width: 485px;
+  }
+.work-exp {
+  border: 2px solid black;
+}
+.work-exp:hover {
+  background-color: gold;
+}
+hr {
+  background-color: white;
+  border-style: none;
+  height: 2px;
+  width: 100%;
+}
